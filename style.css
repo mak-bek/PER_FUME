@@ -1,0 +1,252 @@
+     
+    html{
+        background-color: lightyellow;
+    }
+    div{
+        width: 25%;
+    }
+    img{
+        width: 100%;
+        
+        border-color: beige;
+        margin: -2px;
+        height: 264px;
+    }
+
+    section{
+        display: flex;
+        height: 268px;
+        justify-content: center;
+        position: relative;
+        top: 100px;
+    }
+    
+    div{
+        border: none;
+        border-color: beige;
+        width: 28%;
+        background-color: white;
+        height: 263px;
+    }
+    h4{
+        color: darkgray;
+        margin-left: 20px;
+    
+    }
+    h1{
+        margin-left: 20px;
+      
+    }
+    p{
+        font-size: 16px;
+        font-family: system-ui;
+        color: darkgray;
+        margin-left: 20px;
+        
+    }
+    
+    h2{
+        color: forestgreen;
+        padding-top: 82px;
+        padding-left: 487px;
+        
+    }
+    h5{
+        padding-left: 576px;
+        margin-top: -46px;
+        color: darkgray;
+    }
+    button{
+        margin-left: 475px;
+        background-color: forestgreen;
+        border: none;
+        color: white;
+        border-radius: 15px;
+    
+    }
+  
+    .cont{
+        border-color: none;
+        width: auto;
+        margin-top: 3px;
+        display: -webkit-box;
+        background-color: lightyellow;
+        
+    }
+    .learn1{
+        width: 150px;
+        height: 26px;
+        background-color: forestgreen;
+        margin-left: 8px;
+        margin-top: 18px;
+        border: none;
+        font-size: 14px;
+        border-radius: 15px;
+    
+    }
+    .learn1 a{
+        text-decoration: none;
+        color: white;
+        font-family: cursive;
+    }
+    .cont h3{
+        padding-left: 170px;
+        font-size: 15px;
+        font-family: cursive;
+        font-weight: lighter;
+        color: darkgray;
+    }
+
+    .learn2{
+        width: 150px;
+        height: 26px;
+        background-color: forestgreen;
+        margin-left: 8px;
+        margin-top: 18px;
+        border: none;
+        font-size: 14px;
+        border-radius: 15px;
+    }
+    .learn2 a{
+        text-decoration: none;
+        color: white;
+        font-family: cursive;
+    }
+    .cont h3a{
+        padding-left: 10px;
+        font-size: 15px;
+        font-family: cursive;
+        font-weight: lighter;
+        color: darkgray;
+    }
+    
+    @media(max-width:768px){
+     
+    html{
+        background-color: lightyellow;
+    }
+    div{
+        width: 25%;
+    }
+    img{
+        width: 100%;
+        
+        border-color: beige;
+        margin: -2px;
+        height: 264px;
+    }
+
+    section{
+        display: flex;
+        height: 268px;
+        justify-content: center;
+        position: relative;
+        top: 100px;
+    }
+    
+    div{
+        border: none;
+        border-color: beige;
+        width: 28%;
+        background-color: white;
+        height: 263px;
+    }
+    h4{
+        color: darkgray;
+        margin-left: 20px;
+    
+    }
+    h1{
+        margin-left: 20px;
+      
+    }
+    p{
+        font-size: 16px;
+        font-family: system-ui;
+        color: darkgray;
+        margin-left: 20px;
+        
+    }
+    
+    h2{
+        color: forestgreen;
+        padding-top: 82px;
+        padding-left: 398px;
+        
+    }
+    h5{
+        padding-left: 500px;
+        margin-top: -46px;
+        color: darkgray;
+    }
+    button{
+        margin-left: 396px;
+        background-color: forestgreen;
+        border: none;
+        color: white;
+        border-radius: 15px;
+    
+    }
+    .learn a{
+        text-decoration: none;
+        color: white;
+    }
+    .cont{
+        border-color: none;
+        width: auto;
+        margin-top: 3px;
+        display: -webkit-box;
+        background-color: lightyellow;
+        
+    }
+    .learn1{
+        width: 150px;
+        height: 26px;
+        background-color: forestgreen;
+        margin-left: 8px;
+        margin-top: 18px;
+        border: none;
+        font-size: 14px;
+        border-radius: 15px;
+    
+    }
+    .learn1 a{
+        text-decoration: none;
+        color: white;
+        font-family: cursive;
+    }
+    .cont h3{
+        padding-left: 80px;
+        font-size: 15px;
+        font-family: cursive;
+        font-weight: lighter;
+        color: darkgray;
+    }
+
+    .learn2{
+        width: 150px;
+        height: 26px;
+        background-color: forestgreen;
+        margin-left: 8px;
+        margin-top: 18px;
+        border: none;
+        font-size: 14px;
+        border-radius: 15px;
+    }
+    .learn2 a{
+        text-decoration: none;
+        color: white;
+        font-family: cursive;
+    }
+    .cont h3a{
+        padding-left: 10px;
+        font-size: 15px;
+        font-family: cursive;
+        font-weight: lighter;
+        color: darkgray;
+    }
+
+    }
+    
+    
+    
